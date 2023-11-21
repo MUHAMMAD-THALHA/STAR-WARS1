@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.footer {
+  margin-left: 80px;
+  font-size: 18px;
+  font-weight: bolder;
+  position: absolute;
+  font-family: 'Orbitron', sans-serif; 
+  top: 450px;
+  left: 420px;
+  text-align: center;
+}
+.left {
+  display: grid;
+  grid-template-columns: repeat(7, 100px);
+  grid-column-gap: 60px;
+  align-items: center;
+  position: relative;
+  left: 50px;
+}
+.hero,
+.villan,
+.hero2,
+.villan2 {
+  border: 1px solid rgb(240, 6, 6);
+  width: 150px;
+  height: 270px;
+  border-radius: 5%;
+}
+.heroimg,
+.villanimg,
+.heroimg2,
+.villanimg2 {
+  position: relative;
+  top: 10px;
+  left: 7px;
+}
+p {
+  position: relative;
+  left: 40px;
+}
+.p1 {
+  position: relative;
+  left: 17px6;
+}
+.p4{
+  position: relative;
+  left: 16px;
+
+}
+.num,.num6 ,.num2, .num7{
+  position: relative;
+  left: 50px;
+  font-size: 3rem;
+}
+.num3,.num4,.num5{
+  font-size: 3rem;
+}
+.num3{
+  position: relative;
+  left: 150%;
+  bottom: 100px;
+  
+}
+.num4{
+  position: relative;
+  left: 10%;
+  bottom: 100px;
+  
+}
+.num5{
+  position: relative;
+  right: 50%;
+  bottom: 100px;
+
+}
+p{
+  font-family: 'Orbitron', sans-serif; 
+}
